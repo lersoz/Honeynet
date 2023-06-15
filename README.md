@@ -10,7 +10,7 @@ Bu projede, farklı tür honeypot'ları entegre eden bir honeynet ağı tasarlan
 
 ## Kullanılan Araçlar
 
-Bu projede [Dionaea](https://dionaea.readthedocs.io/en/latest/index.html), [Cowrie](https://github.com/cowrie/cowrie), [Elastichoney](https://github.com/jordan-wright/elastichoney) gibi farklı honeypotlar ve ELK Stack ile Power BI gibi log analiz ve görselleştirme araçları kullanılmıştır. Bu araçlar sayesinde, saldırganların hareketleri ve taktikleri hakkında detaylı bilgiler elde edilmiş ve bu bilgiler, proaktif güvenlik önlemleri alınmasını kolaylaştırmıştır.
+Bu projede [Dionaea](https://dionaea.readthedocs.io/en/latest/index.html), [Cowrie](https://github.com/cowrie/cowrie), [Elastichoney](https://github.com/jordan-wright/elastichoney) gibi farklı honeypotlar ve [ELK Stack](https://www.elastic.co/elastic-stack?ultron=B-Stack-Trials-EMEA-S-PHS&gambit=Stack-ELK&blade=adwords-s&hulk=paid&Device=c&thor=elk%20stack) ile [Power BI](https://powerbi.microsoft.com/tr-tr/) gibi log analiz ve görselleştirme araçları kullanılmıştır. Bu araçlar sayesinde, saldırganların hareketleri ve taktikleri hakkında detaylı bilgiler elde edilmiş ve bu bilgiler, proaktif güvenlik önlemleri alınmasını kolaylaştırmıştır.
 
 ## Analiz ve Sonuçlar
 
